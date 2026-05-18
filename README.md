@@ -8,7 +8,7 @@ It is a widely used network scanning and auditing tool in cybersecurity and syst
 
 ### arp-scan
 
-It is a tool designed to discover divices on a local area network (LAN) using the Address Resolution Protocol (ARP).
+It is a tool designed to discover devices on a local area network (LAN) using the Address Resolution Protocol (ARP).
 
 ### masscan
 
